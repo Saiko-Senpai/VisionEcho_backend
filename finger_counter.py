@@ -57,8 +57,6 @@ while True:
                         1, (0, 255, 0), 2, cv2.LINE_AA)
             print(text)
 
-            time.sleep(5)
-
     cv2.imshow("Finger Counter", frame)
 
     if cv2.waitKey(1) & 0xFF == 27:  # ESC
