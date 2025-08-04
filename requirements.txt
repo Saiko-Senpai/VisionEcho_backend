@@ -10,3 +10,5 @@ mediapipe==0.10.9
 ultralytics>=8.1.24
 requests>=2.31.0
 numpy>=1.24.0
+pyTorch
+timm
